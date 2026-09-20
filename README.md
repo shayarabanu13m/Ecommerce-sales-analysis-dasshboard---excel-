@@ -143,8 +143,10 @@ The dashboard contains seven major visualizations.
 
 
 
-Premium: 46%
-Regular: 38%
+Premium: 46% 
+
+Regular: 38% 
+
 VIP: 17%
 
 Insight: Premium customers generate the largest share of revenue at 46%, followed by Regular customers at 38%. The business can focus on retaining Premium customers and converting more Regular customers into higher-value segments.
@@ -203,7 +205,8 @@ Insight: Revenue is concentrated among a group of high-performing cities. These 
 
 
 
-<img width="232" height="304" alt="Screenshot 2026-09-19 204722" src="https://github.com/user-attachments/assets/1832b164-3d09-458e-b6aa-9f878461edf9" />
+<img width="343" height="428" alt="Screenshot 2026-09-20 182408" src="https://github.com/user-attachments/assets/1dd08cb4-49d8-46ad-af7d-6195c955e149" />
+
 
 
 Insight: Furniture has the highest quantity share at 10.6%, while Beauty has the lowest at 9.1%. Product demand is relatively balanced across categories.
@@ -218,7 +221,8 @@ Shows the total quantity sold across different product categories.
 
 
 
-<img width="225" height="237" alt="Screenshot 2026-09-19 204737" src="https://github.com/user-attachments/assets/4cc203f2-4b0c-4012-bb88-e027c0d5e275" />
+<img width="314" height="325" alt="Screenshot 2026-09-20 182424" src="https://github.com/user-attachments/assets/5352965f-43fc-471e-8ed2-b445adb5484e" />
+
 
 
 Home Decor contributes the highest category revenue at approximately 11.5% (₹68M), while Beauty contributes approximately 8.8% (₹52M)

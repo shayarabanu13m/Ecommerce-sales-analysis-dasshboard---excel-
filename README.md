@@ -53,7 +53,7 @@ The raw dataset contains transactional e-commerce sales information.
 ## Analysis year ( 2023-2025)
 ---
 
-##🧹 Data Preparation & Cleaning
+## 🧹 Data Preparation & Cleaning
 
 Before creating the dashboard, the dataset was prepared and structured for analysis.
 

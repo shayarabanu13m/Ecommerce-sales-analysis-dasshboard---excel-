@@ -191,12 +191,12 @@ Insight: Sales are fairly well distributed across regions. North contributes the
 
 ## Insight
 
- **Revenue Trend:** [Add your validated finding]
-- **Top Category by Revenue:** [Add category]
-- **Top City:** [Add city]
-- **Highest-Selling Category by Quantity:** [Add category]
-- **Best Performing Region:** [Add region]
-- **Highest Revenue Month:** [Add month]
+Revenue Trend: Revenue reached ₹593M, with overall revenue growth of 48%. Monthly growth was volatile, ranging from -16% to +15%.
+Top Category by Revenue: Home Decor – ~11.5% of total revenue.
+Top City: Ahmedabad – ~₹20M revenue.
+Highest-Selling Category by Quantity: Furniture – 1,591 units (~10.6%).
+Best Performing Region: North – 27% of total sales.
+Highest Revenue Month: May – ~₹54M revenue.
 
 -----  
 

@@ -50,7 +50,7 @@ The raw dataset contains transactional e-commerce sales information.
 | Unit Price | Price per unit |
 
 ---
-Analysis year ( 2023-2025)
+## Analysis year ( 2023-2025)
 ---
 
 ##🧹 Data Preparation & Cleaning
@@ -111,7 +111,7 @@ Users can combine these filters to analyze specific time periods, cities, or pro
 ---
 
 
-# 📈 Dashboard Visualizations
+## 📈 Dashboard Visualizations
 
 The dashboard contains seven major visualizations.
 

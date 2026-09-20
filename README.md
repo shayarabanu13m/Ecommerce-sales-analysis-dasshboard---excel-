@@ -228,13 +228,14 @@ Calculated Columns
             ↓
     PivotCharts
             ↓
-KPI Development
+interactive dashboard
             ↓
-Slicers & Timeline
+dashboard visualization
             ↓
-Interactive Dashboard
+       Insights
             ↓
-Sales Analysis & Business Insights
+Business Recommendations
+
 ````
 
 
